@@ -1,7 +1,9 @@
 body {
-	background-color: yellow;
+	background-color: red;
 }
 
 p {
 	font-size : 30px
+	font-color : red;
+	
 }
